@@ -29,7 +29,7 @@ class Blog extends Component {
                                 activeClassName="my-active"
                                 activeStyle={{
                                     textDecoration:'underline'
-                                }}>Posts</NavLink></li>/
+                                }}>All My Posts</NavLink></li>/
                             <li><NavLink to={{
                                 pathname: '/new-post',
                                 hash: '#submit',
